@@ -11,7 +11,7 @@ v7.Size = 0
 v7.Parent = game.Lighting
 
 local v11 = Instance.new("ScreenGui", game.CoreGui)
-v11.Name = "ZhnetsR6 Roblox: @mememmrt"
+v11.Name = "KiraR6 Roblox: @mememmrt"
 v11.ResetOnSpawn = false
 
 local v14 = Instance.new("Frame", v11)
